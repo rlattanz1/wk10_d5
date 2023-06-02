@@ -1,4 +1,3 @@
-import harvardArt
 
 function App() {
   return (
