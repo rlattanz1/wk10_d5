@@ -11,7 +11,6 @@ function App() {
       <GalleryNavigation galleries={harvardArt.records}/>
     </Route>
     <Route path="/galleries/:galleryId" >
-      <NavLink to="/galleries"> </NavLink>
     </Route>
     </>
   );
