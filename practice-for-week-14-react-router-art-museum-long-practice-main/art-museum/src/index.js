@@ -6,9 +6,9 @@ import { BrowserRouter } from 'react-router-dom';
 
 function Root() {
   return (
-    // <BrowserRouter>
+    <BrowserRouter>
       <App />
-    // </BrowserRouter>
+    </BrowserRouter>
   );
 }
 
